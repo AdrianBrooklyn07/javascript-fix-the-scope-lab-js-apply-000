@@ -1,4 +1,4 @@
-function myAnimal(cat) {
+function myAnimal() {
    return "dog";
    }
 
